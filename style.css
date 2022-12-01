@@ -1,0 +1,67 @@
+
+body{
+    background-color: black !important;
+    color: white !important;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+}
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a{
+    color: white;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: -40px;
+}
+.navbar a:hover{
+    color: green;
+}
+.carousel{
+    margin-top: 100px;
+    width: 1000px;
+    height: 1000px;
+    margin-left: 50px;
+}
+form{
+   margin-left: 31%;
+   transform: translateY(70%);
+    width: 40%;
+}
+.spiner{
+    position: absolute;
+    margin-top: -400px;
+    width: 50%;
+    margin-left: 7%;
+    color: green;
+}
+.progress{
+    margin-top: -350px;
+    margin-left: 7%;
+    width: 50%;
+    background-color: green 
+}
+.progress-bar{
+    background-color:green !important;
+}
+.textul{
+    text-align: center;
+}
+
+.anonimous{
+    width: 20%;
+    height: 20%;
+    margin-left: 39%;
+}
+.btn{
+    background-color: green !important;
+    border-color: green !important;
+}
+.progres{
+    margin-top: -100px;
+}
